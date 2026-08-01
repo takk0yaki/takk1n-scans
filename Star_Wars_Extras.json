@@ -5,18 +5,20 @@
   "author": "土耳朵",
   "cover": "https://cdn.imgchest.com/files/f44fbb933527.jpg",
   "chapters": {
-    "2": {
-      "title": "EN_TL",
-      "last_updated": "1785570229",
-      "groups": {
-        "takk1n-scans": "/proxy/api/imgchest/chapter/m9yxa2o9p4q"
-      }
-    },
     "1": {
       "title": "Raw",
+      "volume": "",
       "last_updated": "1785570238",
       "groups": {
-        "takk1n-scans": "/proxy/api/imgchest/chapter/agyv8woxb48"
+        "土耳朵": "/proxy/api/imgchest/chapter/agyv8woxb48"
+      }
+    },
+    "2": {
+      "title": "EN_TL",
+      "volume": "",
+      "last_updated": "1785570229",
+      "groups": {
+        "土耳朵": "/proxy/api/imgchest/chapter/m9yxa2o9p4q"
       }
     }
   }
