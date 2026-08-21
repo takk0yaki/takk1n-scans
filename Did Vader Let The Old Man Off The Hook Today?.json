@@ -6,15 +6,15 @@
   "cover": "https://cdn.imgchest.com/files/af4271d87cfa.png",
   "chapters": {
     "0": {
-      "title": "0",
+      "title": "RAW",
       "volume": "",
       "last_updated": "1787282599",
       "groups": {
-        "Raw": "/proxy/api/imgchest/chapter/6eyrwq9rg7p"
+        "": "/proxy/api/imgchest/chapter/6eyrwq9rg7p"
       }
     },
     "1": {
-      "title": "1",
+      "title": "EN_TL",
       "volume": "",
       "last_updated": "1787282644",
       "groups": {
